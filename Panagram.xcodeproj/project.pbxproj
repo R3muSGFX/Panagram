@@ -47,7 +47,7 @@
 		8A6F0CEE200B8787004F30DD = {
 			isa = PBXGroup;
 			children = (
-				8A6F0CF9200B8787004F30DD /* Tutorial */,
+				8A6F0CF9200B8787004F30DD /* Panagram */,
 				8A6F0CF8200B8787004F30DD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,7 +60,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8A6F0CF9200B8787004F30DD /* Tutorial */ = {
+		8A6F0CF9200B8787004F30DD /* Panagram */ = {
 			isa = PBXGroup;
 			children = (
 				8A6F0CFA200B8787004F30DD /* main.swift */,
@@ -68,7 +68,7 @@
 				8A6F0D03200B8A48004F30DD /* Panagram.swift */,
 				8A6F0D05200B8EC1004F30DD /* StringExtension.swift */,
 			);
-			path = Tutorial;
+			path = Panagram;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
